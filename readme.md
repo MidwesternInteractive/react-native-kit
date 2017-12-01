@@ -73,9 +73,10 @@ run the command
 
 ```
 react-native init nameOfYourNewProject
-
+```
 
 If are already have a React Native App
+
 ```
 npm install
 ```
