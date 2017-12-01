@@ -73,8 +73,16 @@ run the command
 
 ```
 react-native init nameOfYourNewProject
+
+
+If are already have a React Native App
 ```
-If you want to build off of this app, clone it on to your local machine and run the command
+npm install
+```
+react-native init nameOfYourNewProject
+```
+
+To debug the app, clone it on to your local machine and run the command
 
 ```
 react-native run-ios
